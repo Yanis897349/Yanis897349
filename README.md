@@ -12,6 +12,6 @@ Hi there 👋
 
 ![Discord](https://dcbadge.limes.pink/api/shield/1156169985496993822?style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanis897349&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="toplangraph"  />
-<img src="https://streak-stats.demolab.com?user=Yanis897349&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streakgraph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanis897349&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Langs Graph"  />
+<img src="https://streak-stats.demolab.com?user=Yanis897349&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats Graph"  />
 </div>
