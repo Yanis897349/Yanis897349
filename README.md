@@ -14,5 +14,4 @@ Hi there 👋
 
 [![Email](https://img.shields.io/badge/Email-yanis.kernoua@epitech.eu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanis.kernoua@epitech.eu)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanis897349&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Langs Graph"  />
-</div>
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=Yanis897349&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+commonly+used+languages" alt="Most commonly used languages" width="466" height="auto" loading="lazy" /></a>
