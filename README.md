@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I build web apps, backend services, and systems-level projects.
+I build full-stack applications, backend services, and systems-level software.
 
 ---
 
